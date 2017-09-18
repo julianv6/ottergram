@@ -1,3 +1,2 @@
 # ottergram
-Assignment 01
-Julia Valencia
+Julia Valencia  Assignment 01
